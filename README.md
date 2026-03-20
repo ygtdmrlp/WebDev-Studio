@@ -1,7 +1,7 @@
 # 🚀 WebDev Studio - Modern HTML Önizleme ve Düzenleme Sitesi
 
 WebDev Studio, modern web geliştiricileri için tasarlanmış, tamamen tarayıcı üzerinde çalışan, hızlı ve kullanıcı dostu bir kod düzenleme ve canlı önizleme aracıdır. Herhangi bir kurulum gerektirmeden HTML, CSS ve JavaScript projelerinizi anında oluşturabilir, düzenleyebilir ve önizleyebilirsiniz.
-
+- Demo Link [demo link](https://webdev-studio.onrender.com/)
 ![WebDev Studio Banner](https://i.hizliresim.com/906a4be.jpg)
 
 ## 🌟 Özellikler
@@ -24,7 +24,7 @@ WebDev Studio, modern web geliştiricileri için tasarlanmış, tamamen tarayıc
 | Şablon Seçimi | Dosya Yükleme |
 | :---: | :---: |
 | ![Templates](https://i.hizliresim.com/31cm3oz.png) | ![Upload](https://i.hizliresim.com/ar3xje8.png) |
-
+- Demo Link [demo link](https://webdev-studio.onrender.com/)
 ## 🛠️ Kullanılan Teknolojiler
 
 - **[Vite](https://vitejs.dev/)** - Modern Frontend Tooling
@@ -33,7 +33,7 @@ WebDev Studio, modern web geliştiricileri için tasarlanmış, tamamen tarayıc
 - **[Tailwind CSS](https://tailwindcss.com/)** - Modern stil yönetimi
 - **[LocalForage](https://localforage.github.io/localForage/)** - Gelişmiş tarayıcı depolama (IndexedDB)
 - **[Lucide Icons](https://lucide.dev/)** - Minimalist ve şık ikonlar
-
+- Demo Link [demo link](https://webdev-studio.onrender.com/)
 ## 🚀 Kurulum ve Çalıştırma
 
 Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
@@ -77,6 +77,6 @@ Bu proje **MIT Lisansı** altında lisanslanmıştır. Daha fazla bilgi için [L
 **ygtdmrlp (CodeHtml)**
 - GitHub: [@ygtdmrlp](https://github.com/ygtdmrlp)
 - Web: [ygtdmrlp.site](https://ygtdmrlp.site)
-
+- Demo Link [demo link](https://webdev-studio.onrender.com/)
 ---
 ⭐️ Bu projeyi beğendiyseniz yıldız vermeyi unutmayın!
