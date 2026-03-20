@@ -2,7 +2,7 @@
 
 WebDev Studio, modern web geliştiricileri için tasarlanmış, tamamen tarayıcı üzerinde çalışan, hızlı ve kullanıcı dostu bir kod düzenleme ve canlı önizleme aracıdır. Herhangi bir kurulum gerektirmeden HTML, CSS ve JavaScript projelerinizi anında oluşturabilir, düzenleyebilir ve önizleyebilirsiniz.
 
-![WebDev Studio Banner](https://i.hizliresim.com/tbmurrz.png)
+![WebDev Studio Banner](https://i.hizliresim.com/906a4be.jpg)
 
 ## 🌟 Özellikler
 
