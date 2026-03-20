@@ -2,7 +2,7 @@
 
 WebDev Studio, modern web geliştiricileri için tasarlanmış, tamamen tarayıcı üzerinde çalışan, hızlı ve kullanıcı dostu bir kod düzenleme ve canlı önizleme aracıdır. Herhangi bir kurulum gerektirmeden HTML, CSS ve JavaScript projelerinizi anında oluşturabilir, düzenleyebilir ve önizleyebilirsiniz.
 
-![WebDev Studio Banner](https://via.placeholder.com/1200x400?text=WebDev+Studio+Modern+Web+Editor)
+![WebDev Studio Banner](https://i.hizliresim.com/tbmurrz.png)
 
 ## 🌟 Özellikler
 
@@ -40,12 +40,12 @@ Projeyi yerel makinenizde çalıştırmak için aşağıdaki adımları izleyin:
 
 1. Depoyu klonlayın:
    ```bash
-   git clone https://github.com/ygtdmrlp/html-preview-editor.git
+   git clone https://github.com/ygtdmrlp/WebDev-Studio.git
    ```
 
 2. Proje dizinine gidin:
    ```bash
-   cd html-preview-editor
+   cd WebDev-Studio
    ```
 
 3. Bağımlılıkları yükleyin:
