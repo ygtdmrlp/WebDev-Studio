@@ -1,0 +1,74 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --editor-bg: #ffffff;
+    --editor-text: #1a1a1a;
+  }
+  
+  .dark {
+    --editor-bg: #1e1e1e;
+    --editor-text: #d4d4d4;
+  }
+
+  body {
+    @apply antialiased;
+  }
+}
+
+@layer components {
+  .tab-btn {
+    @apply transition-all duration-200 border-b-2 border-transparent;
+  }
+  
+  .tab-btn.active {
+    @apply border-indigo-600 text-indigo-600 dark:text-indigo-400;
+  }
+
+  .file-item {
+    @apply flex items-center gap-2 px-3 py-2 rounded-lg text-sm font-medium text-gray-600 dark:text-slate-400 hover:bg-gray-100 dark:hover:bg-slate-700/50 cursor-pointer transition-colors;
+  }
+
+  .file-item.active {
+    @apply bg-indigo-50 dark:bg-indigo-900/20 text-indigo-600 dark:text-indigo-400;
+  }
+}
+
+#editor-container {
+  @apply w-full h-full;
+}
+
+.monaco-editor {
+  padding-top: 8px;
+}
+
+/* Custom Scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-transparent;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-gray-300 dark:bg-slate-700 rounded-full hover:bg-gray-400 dark:hover:bg-slate-600;
+}
+
+/* Preview animations */
+#preview-iframe {
+  transition: opacity 0.2s ease-in-out;
+}
+
+/* Card Hover Animations */
+.template-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 20px 25px -5px rgb(0 0 0 / 0.1), 0 8px 10px -6px rgb(0 0 0 / 0.1);
+}
+
+.toast-show {
+  @apply translate-y-0 opacity-100;
+}
