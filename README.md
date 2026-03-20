@@ -19,7 +19,7 @@ WebDev Studio, modern web geliştiricileri için tasarlanmış, tamamen tarayıc
 
 | Ana Ekran (Light Mode) | Ana Ekran (Dark Mode) |
 | :---: | :---: |
-| ![Light Mode](https://i.hizliresim.com/9yo3arz.png) | ![Dark Mode](./public/screenshots/gündüz.png) |
+| ![Light Mode](https://i.hizliresim.com/9yo3arz.png) | ![Dark Mode](https://i.hizliresim.com/13tdrcz.png) |
 
 | Şablon Seçimi | Dosya Yükleme |
 | :---: | :---: |
