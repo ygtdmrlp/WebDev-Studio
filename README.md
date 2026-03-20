@@ -23,7 +23,7 @@ WebDev Studio, modern web geliştiricileri için tasarlanmış, tamamen tarayıc
 
 | Şablon Seçimi | Dosya Yükleme |
 | :---: | :---: |
-| ![Templates](./public/screenshots/sablon.png) | ![Upload](./public/screenshots/style.pn) |
+| ![Templates](https://i.hizliresim.com/31cm3oz.png) | ![Upload](https://i.hizliresim.com/ar3xje8.png) |
 
 ## 🛠️ Kullanılan Teknolojiler
 
